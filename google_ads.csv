@@ -1,0 +1,34 @@
+date,timezone,currency,platform,campaign_id,channel,spend,impressions,clicks,platform_reported_acquisitions,platform_reported_revenue
+2026-09-01,UTC,USD,google_ads,1001,Google Brand Search,60,6000,120,5,560
+2026-09-01,UTC,USD,google_ads,1002,Google Nonbrand Search,180,18000,360,7,800
+2026-09-01,UTC,USD,google_ads,1003,Google Shopping,180,18000,360,5,560
+2026-09-02,UTC,USD,google_ads,1001,Google Brand Search,60,6000,120,5,560
+2026-09-02,UTC,USD,google_ads,1002,Google Nonbrand Search,180,18000,360,7,800
+2026-09-02,UTC,USD,google_ads,1003,Google Shopping,180,18000,360,5,560
+2026-09-03,UTC,USD,google_ads,1001,Google Brand Search,60,6000,120,5,560
+2026-09-03,UTC,USD,google_ads,1002,Google Nonbrand Search,180,18000,360,7,800
+2026-09-03,UTC,USD,google_ads,1003,Google Shopping,180,18000,360,5,560
+2026-09-04,UTC,USD,google_ads,1001,Google Brand Search,60,6000,120,5,560
+2026-09-04,UTC,USD,google_ads,1002,Google Nonbrand Search,180,18000,360,7,800
+2026-09-04,UTC,USD,google_ads,1003,Google Shopping,180,18000,360,5,560
+2026-09-05,UTC,USD,google_ads,1001,Google Brand Search,60,6000,120,5,560
+2026-09-05,UTC,USD,google_ads,1002,Google Nonbrand Search,180,18000,360,7,800
+2026-09-05,UTC,USD,google_ads,1003,Google Shopping,180,18000,360,5,560
+2026-09-06,UTC,USD,google_ads,1001,Google Brand Search,60,6000,120,5,560
+2026-09-06,UTC,USD,google_ads,1002,Google Nonbrand Search,180,18000,360,7,800
+2026-09-06,UTC,USD,google_ads,1003,Google Shopping,180,18000,360,5,560
+2026-09-07,UTC,USD,google_ads,1001,Google Brand Search,60,6000,120,5,560
+2026-09-07,UTC,USD,google_ads,1002,Google Nonbrand Search,180,18000,360,7,800
+2026-09-07,UTC,USD,google_ads,1003,Google Shopping,180,18000,360,5,560
+2026-09-08,UTC,USD,google_ads,1001,Google Brand Search,60,6000,120,5,560
+2026-09-08,UTC,USD,google_ads,1002,Google Nonbrand Search,180,18000,360,7,800
+2026-09-08,UTC,USD,google_ads,1003,Google Shopping,180,18000,360,5,560
+2026-09-09,UTC,USD,google_ads,1001,Google Brand Search,60,6000,120,5,560
+2026-09-09,UTC,USD,google_ads,1002,Google Nonbrand Search,180,18000,360,7,800
+2026-09-09,UTC,USD,google_ads,1003,Google Shopping,180,18000,360,5,560
+2026-09-10,UTC,USD,google_ads,1001,Google Brand Search,60,6000,120,5,560
+2026-09-10,UTC,USD,google_ads,1002,Google Nonbrand Search,180,18000,360,7,800
+2026-09-10,UTC,USD,google_ads,1003,Google Shopping,180,18000,360,5,560
+2026-09-11,UTC,USD,google_ads,1001,Google Brand Search,60,6000,120,5,560
+2026-09-11,UTC,USD,google_ads,1002,Google Nonbrand Search,180,18000,360,7,800
+2026-09-11,UTC,USD,google_ads,1003,Google Shopping,180,18000,360,5,560

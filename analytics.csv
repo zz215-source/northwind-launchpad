@@ -1,0 +1,78 @@
+date,timezone,currency,platform,campaign_id,channel,attributed_acquisitions,attributed_revenue,coverage_status
+2026-09-01,UTC,USD,google_ads,1001,Google Brand Search,3,360,complete
+2026-09-01,UTC,USD,google_ads,1002,Google Nonbrand Search,5,600,complete
+2026-09-01,UTC,USD,google_ads,1003,Google Shopping,3,360,complete
+2026-09-01,UTC,USD,meta_ads,1001,Meta Prospecting,3,450,complete
+2026-09-01,UTC,USD,meta_ads,2002,Meta Retargeting,4,840,complete
+2026-09-01,UTC,USD,meta_ads,2003,Meta Awareness,0,0,complete
+2026-09-01,UTC,USD,organic,organic,Organic Search,2,500,complete
+2026-09-02,UTC,USD,google_ads,1001,Google Brand Search,3,360,complete
+2026-09-02,UTC,USD,google_ads,1002,Google Nonbrand Search,5,600,complete
+2026-09-02,UTC,USD,google_ads,1003,Google Shopping,3,360,complete
+2026-09-02,UTC,USD,meta_ads,1001,Meta Prospecting,3,450,complete
+2026-09-02,UTC,USD,meta_ads,2002,Meta Retargeting,4,840,complete
+2026-09-02,UTC,USD,meta_ads,2003,Meta Awareness,0,0,complete
+2026-09-02,UTC,USD,organic,organic,Organic Search,2,500,complete
+2026-09-03,UTC,USD,google_ads,1001,Google Brand Search,3,360,complete
+2026-09-03,UTC,USD,google_ads,1002,Google Nonbrand Search,5,600,complete
+2026-09-03,UTC,USD,google_ads,1003,Google Shopping,3,360,complete
+2026-09-03,UTC,USD,meta_ads,1001,Meta Prospecting,3,450,complete
+2026-09-03,UTC,USD,meta_ads,2002,Meta Retargeting,4,840,complete
+2026-09-03,UTC,USD,meta_ads,2003,Meta Awareness,0,0,complete
+2026-09-03,UTC,USD,organic,organic,Organic Search,2,500,complete
+2026-09-04,UTC,USD,google_ads,1001,Google Brand Search,3,360,complete
+2026-09-04,UTC,USD,google_ads,1002,Google Nonbrand Search,5,600,complete
+2026-09-04,UTC,USD,google_ads,1003,Google Shopping,3,360,complete
+2026-09-04,UTC,USD,meta_ads,1001,Meta Prospecting,3,450,complete
+2026-09-04,UTC,USD,meta_ads,2002,Meta Retargeting,4,840,complete
+2026-09-04,UTC,USD,meta_ads,2003,Meta Awareness,0,0,complete
+2026-09-04,UTC,USD,organic,organic,Organic Search,2,500,complete
+2026-09-05,UTC,USD,google_ads,1001,Google Brand Search,3,360,complete
+2026-09-05,UTC,USD,google_ads,1002,Google Nonbrand Search,5,600,complete
+2026-09-05,UTC,USD,google_ads,1003,Google Shopping,3,360,complete
+2026-09-05,UTC,USD,meta_ads,1001,Meta Prospecting,3,450,complete
+2026-09-05,UTC,USD,meta_ads,2002,Meta Retargeting,4,840,complete
+2026-09-05,UTC,USD,meta_ads,2003,Meta Awareness,0,0,complete
+2026-09-05,UTC,USD,organic,organic,Organic Search,2,500,complete
+2026-09-06,UTC,USD,google_ads,1001,Google Brand Search,3,360,complete
+2026-09-06,UTC,USD,google_ads,1002,Google Nonbrand Search,5,600,complete
+2026-09-06,UTC,USD,google_ads,1003,Google Shopping,3,360,complete
+2026-09-06,UTC,USD,meta_ads,1001,Meta Prospecting,3,450,complete
+2026-09-06,UTC,USD,meta_ads,2002,Meta Retargeting,4,840,complete
+2026-09-06,UTC,USD,meta_ads,2003,Meta Awareness,0,0,complete
+2026-09-06,UTC,USD,organic,organic,Organic Search,2,500,complete
+2026-09-07,UTC,USD,google_ads,1001,Google Brand Search,3,360,complete
+2026-09-07,UTC,USD,google_ads,1002,Google Nonbrand Search,5,600,complete
+2026-09-07,UTC,USD,google_ads,1003,Google Shopping,3,360,complete
+2026-09-07,UTC,USD,meta_ads,1001,Meta Prospecting,3,450,complete
+2026-09-07,UTC,USD,meta_ads,2002,Meta Retargeting,4,840,complete
+2026-09-07,UTC,USD,meta_ads,2003,Meta Awareness,0,0,complete
+2026-09-07,UTC,USD,organic,organic,Organic Search,2,500,complete
+2026-09-08,UTC,USD,google_ads,1001,Google Brand Search,3,360,complete
+2026-09-08,UTC,USD,google_ads,1002,Google Nonbrand Search,5,600,complete
+2026-09-08,UTC,USD,google_ads,1003,Google Shopping,3,360,complete
+2026-09-08,UTC,USD,meta_ads,1001,Meta Prospecting,3,450,complete
+2026-09-08,UTC,USD,meta_ads,2002,Meta Retargeting,4,840,complete
+2026-09-08,UTC,USD,meta_ads,2003,Meta Awareness,0,0,complete
+2026-09-08,UTC,USD,organic,organic,Organic Search,2,500,complete
+2026-09-09,UTC,USD,google_ads,1001,Google Brand Search,3,360,complete
+2026-09-09,UTC,USD,google_ads,1002,Google Nonbrand Search,5,600,complete
+2026-09-09,UTC,USD,google_ads,1003,Google Shopping,3,360,complete
+2026-09-09,UTC,USD,meta_ads,1001,Meta Prospecting,3,450,complete
+2026-09-09,UTC,USD,meta_ads,2002,Meta Retargeting,4,840,complete
+2026-09-09,UTC,USD,meta_ads,2003,Meta Awareness,0,0,complete
+2026-09-09,UTC,USD,organic,organic,Organic Search,2,500,complete
+2026-09-10,UTC,USD,google_ads,1001,Google Brand Search,3,360,complete
+2026-09-10,UTC,USD,google_ads,1002,Google Nonbrand Search,5,600,complete
+2026-09-10,UTC,USD,google_ads,1003,Google Shopping,3,360,complete
+2026-09-10,UTC,USD,meta_ads,1001,Meta Prospecting,3,450,complete
+2026-09-10,UTC,USD,meta_ads,2002,Meta Retargeting,4,840,complete
+2026-09-10,UTC,USD,meta_ads,2003,Meta Awareness,0,0,complete
+2026-09-10,UTC,USD,organic,organic,Organic Search,2,500,complete
+2026-09-11,UTC,USD,google_ads,1001,Google Brand Search,3,360,complete
+2026-09-11,UTC,USD,google_ads,1002,Google Nonbrand Search,5,600,complete
+2026-09-11,UTC,USD,google_ads,1003,Google Shopping,3,360,complete
+2026-09-11,UTC,USD,meta_ads,1001,Meta Prospecting,3,450,complete
+2026-09-11,UTC,USD,meta_ads,2002,Meta Retargeting,4,840,complete
+2026-09-11,UTC,USD,meta_ads,2003,Meta Awareness,0,0,complete
+2026-09-11,UTC,USD,organic,organic,Organic Search,2,500,complete
