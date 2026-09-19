@@ -1,14 +1,14 @@
-"account_id","account_name","subscription_status","paid_tier","currency","billing_interval","net_recurring_charge","basic_monthly_price","pro_monthly_price","enterprise_monthly_price","snapshot_date","basic_core_action_limit","pro_core_action_limit","enterprise_core_action_limit"
-"A001","Northstar Grid Systems","active","Enterprise","USD","monthly","2400","300","900","2400","2026-09-19","1000","10000","100000"
-"A002","Harbor Freight Services","active","Enterprise","USD","annual","28800","300","900","2400","2026-09-19","1000","10000","100000"
-"A003","Cedar Office Supplies","active","Pro","USD","monthly","900","300","900","2400","2026-09-19","1000","10000","100000"
-"A004","Beacon Field Services","active","Enterprise","USD","monthly","2400","300","900","2400","2026-09-19","1000","10000","100000"
-"A005","Mawingu Foods","active","Pro","USD","monthly","900","300","900","2400","2026-09-19","1000","10000","100000"
-"A006","Tana Components","active","Basic","USD","monthly","300","300","900","2400","2026-09-19","1000","10000","100000"
-"A007","Kifaru Logistics","active","Enterprise","USD","monthly","2400","300","900","2400","2026-09-19","1000","10000","100000"
-"A008","Lakeview Packaging","active","Pro","USD","annual","10800","300","900","2400","2026-09-19","1000","10000","100000"
-"A009","Coastline Energy","canceled","Enterprise","USD","monthly","0","300","900","2400","2026-09-19","1000","10000","100000"
-"A010","Savanna Hospitality","active","Enterprise","USD","monthly","1800","225","675","1800","2026-09-19","1000","10000","100000"
-"A011","Acacia Distribution","active","Basic","USD","monthly","300","300","900","2400","2026-09-19","1000","10000","100000"
-"A012","Rift Valley Retail","active","Pro","USD","annual","10800","300","900","2400","2026-09-19","1000","10000","100000"
-"A013","Highland Textiles","active","Basic","USD","monthly","300","300","900","2400","2026-09-19","1000","10000","100000"
+account_id,account_name,subscription_status,paid_tier,currency,billing_interval,net_recurring_charge,basic_monthly_price,pro_monthly_price,enterprise_monthly_price,snapshot_date,basic_core_action_limit,pro_core_action_limit,enterprise_core_action_limit
+A001,Northstar Grid Systems,active,Enterprise,USD,monthly,2400,300,900,2400,2026-09-19,1000,10000,100000
+A002,Harbor Freight Services,active,Enterprise,USD,annual,28800,300,900,2400,2026-09-19,1000,10000,100000
+A003,Cedar Office Supplies,active,Pro,USD,monthly,900,300,900,2400,2026-09-19,1000,10000,100000
+A004,Beacon Field Services,active,Enterprise,USD,monthly,2400,300,900,2400,2026-09-19,1000,10000,100000
+A005,Mawingu Foods,active,Pro,USD,monthly,900,300,900,2400,2026-09-19,1000,10000,100000
+A006,Tana Components,active,Basic,USD,monthly,300,300,900,2400,2026-09-19,1000,10000,100000
+A007,Kifaru Logistics,active,Enterprise,USD,monthly,2400,300,900,2400,2026-09-19,1000,10000,100000
+A008,Lakeview Packaging,active,Pro,USD,annual,10800,300,900,2400,2026-09-19,1000,10000,100000
+A009,Coastline Energy,canceled,Enterprise,USD,monthly,0,300,900,2400,2026-09-19,1000,10000,100000
+A010,Savanna Hospitality,active,Enterprise,USD,monthly,1800,225,675,1800,2026-09-19,1000,10000,100000
+A011,Acacia Distribution,active,Basic,USD,monthly,300,300,900,2400,2026-09-19,1000,10000,100000
+A012,Rift Valley Retail,active,Pro,USD,annual,10800,300,900,2400,2026-09-19,1000,10000,100000
+A013,Highland Textiles,active,Basic,USD,monthly,300,300,900,2400,2026-09-19,1000,10000,100000
