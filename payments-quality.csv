@@ -1,0 +1,17 @@
+export_row_id,payment_id,customer_ref,amount_minor,currency,status,created_at,settled_at,refunded_minor,livemode
+1,pay_001,cus_001,2500,USD,succeeded,2026-09-18T08:00:00Z,2026-09-18T08:01:00Z,0,false
+2,pay_002,cus_002,10000,USD,refunded,2026-09-18T08:10:00Z,2026-09-18T08:11:00Z,10000,false
+3,pay_003,cus_003,5000,EUR,pending,2026-09-18T08:20:00Z,,0,false
+4,pay_004,cus_004,4500,GBP,failed,2026-09-18T08:30:00Z,,0,false
+5,pay_005,cus_005,12000,USD,partially_refunded,2026-09-18T08:40:00Z,2026-09-18T08:41:00Z,2000,false
+6,,cus_006,2500,USD,succeeded,2026-09-18T09:00:00Z,2026-09-18T09:01:00Z,0,false
+7,pay_001,cus_001,2500,USD,succeeded,2026-09-18T08:00:00Z,2026-09-18T08:01:00Z,0,false
+8,pay_008,cus_008,19.99,USD,succeeded,2026-09-18T09:20:00Z,2026-09-18T09:21:00Z,0,false
+9,pay_009,cus_009,two thousand,USD,succeeded,2026-09-18T09:30:00Z,2026-09-18T09:31:00Z,0,false
+10,pay_010,cus_010,2000,US,succeeded,2026-09-18T09:40:00Z,2026-09-18T09:41:00Z,0,false
+11,pay_011,cus_011,2000,USD,complete,2026-09-18T09:50:00Z,2026-09-18T09:51:00Z,0,false
+12,pay_012,cus_012,2000,USD,succeeded,2026-09-31T10:00:00Z,2026-09-18T10:01:00Z,0,false
+13,pay_013,cus_013,2000,USD,partially_refunded,2026-09-18T10:10:00Z,2026-09-18T10:11:00Z,2500,false
+14,pay_014,cus_014,2000,USD,succeeded,2026-09-18T10:20:00Z,2026-09-18T10:19:00Z,0,false
+15,pay_015,cus_015,2000,USD,succeeded,2026-09-18T10:30:00Z,,0,false
+16,pay_016,cus_016,0,USD,succeeded,2026-09-18T10:40:00Z,2026-09-18T10:41:00Z,0,false
