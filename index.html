@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Northwind Robotics launchpad: a small static website for deployment verification.">
+  <title>Northwind Robotics | Launchpad</title>
+  <style>
+    :root { color-scheme: light; font-family: system-ui, sans-serif; color: #152d33; background: #f2f6f4; }
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    header, main, footer { max-width: 1050px; margin: auto; padding: 28px; }
+    header { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #cedbd4; }
+    .brand { font-weight: 750; letter-spacing: -.03em; font-size: 22px; }
+    .tag { border: 1px solid #b5cec2; padding: 7px 12px; border-radius: 99px; font-size: 13px; }
+    main { padding-top: 80px; padding-bottom: 70px; }
+    .eyebrow { color: #346454; text-transform: uppercase; letter-spacing: .15em; font-size: 12px; font-weight: 700; }
+    h1 { font-size: clamp(40px, 7vw, 76px); line-height: 1.05; letter-spacing: -.055em; max-width: 740px; margin: 22px 0; }
+    .intro { max-width: 600px; font-size: 20px; line-height: 1.65; color: #466068; }
+    .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 48px; }
+    article { background: white; border: 1px solid #d6e1dc; border-radius: 16px; padding: 26px; }
+    h2 { font-size: 19px; margin-top: 0; }
+    article p { color: #52676d; line-height: 1.6; margin-bottom: 0; }
+    a { color: #185b46; text-underline-offset: 4px; }
+    a:focus-visible { outline: 3px solid #187a57; outline-offset: 5px; }
+    footer { border-top: 1px solid #cedbd4; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 16px; font-size: 14px; }
+    @media (max-width: 700px) { .cards { grid-template-columns: 1fr; } main { padding-top: 45px; } header { gap: 15px; flex-wrap: wrap; } }
+  </style>
+</head>
+<body>
+  <header><span class="brand">Northwind Robotics</span><span class="tag">Launchpad · v1.0.0</span></header>
+  <main>
+    <p class="eyebrow">Built for the next step</p>
+    <h1>Small beginnings.<br>Clear direction.</h1>
+    <p class="intro">A simple home for our robotics projects, team updates, and the milestones ahead.</p>
+    <section class="cards" aria-label="Project overview">
+      <article><h2>Our focus</h2><p>Practical robotics that helps teams make everyday work simpler.</p></article>
+      <article><h2>Our approach</h2><p>Start small, learn from real workflows, and improve one step at a time.</p></article>
+      <article><h2>Our next milestone</h2><p>Publish this launchpad and verify the first deployment from its GitHub source.</p></article>
+    </section>
+  </main>
+  <footer><span>Demo project · No customer data</span><a href="./version.json">View release details</a></footer>
+</body>
+</html>
