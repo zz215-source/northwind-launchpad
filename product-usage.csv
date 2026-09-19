@@ -1,0 +1,11 @@
+account_id,account_name,window_start,window_end,coverage_status,active_users,core_actions,pro_automation_runs,enterprise_audit_exports,enterprise_sso_logins
+A001,Northstar Grid Systems,2026-08-20,2026-09-18,complete,14,320,0,0,0
+A002,Harbor Freight Services,2026-08-20,2026-09-18,complete,40,2100,150,0,0
+A003,Cedar Office Supplies,2026-08-20,2026-09-18,complete,9,110,0,0,0
+A004,Beacon Field Services,2026-08-20,2026-09-18,complete,2,12,0,1,0
+A005,Mawingu Foods,2026-08-20,2026-09-18,complete,25,1800,90,0,0
+A006,Tana Components,2026-08-20,2026-09-18,complete,7,80,0,0,0
+A007,Kifaru Logistics,2026-08-20,2026-09-18,missing,,,,,
+A008,Lakeview Packaging,2026-08-20,2026-09-18,complete,0,0,0,0,0
+A009,Coastline Energy,2026-08-20,2026-09-18,complete,0,0,0,0,0
+A010,Savanna Hospitality,2026-08-20,2026-09-18,complete,12,240,0,0,0

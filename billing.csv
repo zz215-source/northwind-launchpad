@@ -1,0 +1,11 @@
+account_id,account_name,subscription_status,paid_tier,currency,billing_interval,net_recurring_charge,basic_monthly_price,pro_monthly_price,enterprise_monthly_price,snapshot_date
+A001,Northstar Grid Systems,active,Enterprise,USD,monthly,2400,300,900,2400,2026-09-19
+A002,Harbor Freight Services,active,Enterprise,USD,annual,28800,300,900,2400,2026-09-19
+A003,Cedar Office Supplies,active,Pro,USD,monthly,900,300,900,2400,2026-09-19
+A004,Beacon Field Services,active,Enterprise,USD,monthly,2400,300,900,2400,2026-09-19
+A005,Mawingu Foods,active,Pro,USD,monthly,900,300,900,2400,2026-09-19
+A006,Tana Components,active,Basic,USD,monthly,300,300,900,2400,2026-09-19
+A007,Kifaru Logistics,active,Enterprise,USD,monthly,2400,300,900,2400,2026-09-19
+A008,Lakeview Packaging,active,Pro,USD,annual,10800,300,900,2400,2026-09-19
+A009,Coastline Energy,canceled,Enterprise,USD,monthly,0,300,900,2400,2026-09-19
+A010,Savanna Hospitality,active,Enterprise,USD,monthly,1800,225,675,1800,2026-09-19
